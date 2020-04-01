@@ -29,4 +29,5 @@ int main() {
     int n;
     scanf("%d", &n);
     printWord(n);
+    return 0;
 }
