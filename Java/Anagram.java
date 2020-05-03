@@ -1,5 +1,5 @@
+// https://www.hackerrank.com/challenges/java-anagrams/problem
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Anagram {
 
